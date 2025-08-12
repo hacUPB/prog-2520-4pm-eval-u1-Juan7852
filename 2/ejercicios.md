@@ -139,3 +139,10 @@ Calcular cual fue el descuento aplicado y cuanto tiene que pagar la persona
 inicio
 leer precio1, precio2, precio3
 si precio1 = menor_precio
+menor_precio = MIN(precio1, precio2, precio3)
+    descuento = menor_precio * 0.70
+    total = (precio1 + precio2 + precio3) - descuento
+    mostrar "Descuento aplicado:", descuento
+    mostrar "Total a pagar:", total
+```
+![ejercico6](diagrama6.drawio.png)

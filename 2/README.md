@@ -22,3 +22,5 @@ Uso: Sirve para conectar partes del diagrama cuando no caben en el mismo lugar o
 🔹 6. Flechas
 Símbolo: → (líneas con punta)
 Uso: Indican el flujo del proceso (la dirección en la que se mueve el diagrama).
+
+
