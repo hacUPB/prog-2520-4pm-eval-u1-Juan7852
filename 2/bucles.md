@@ -111,3 +111,4 @@ mostrar "Valor de cada cuota:", valorCuota
 fin
 
  ```
+ ok 
